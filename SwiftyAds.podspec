@@ -20,6 +20,6 @@ s.source = {
 
 s.source_files = 'Sources/**/*.{h,m,swift}'
 
-s.dependency 'Google-Mobile-Ads-SDK', '~> 11.0'
+s.dependency 'Google-Mobile-Ads-SDK', '10.8.0'
 
 end
